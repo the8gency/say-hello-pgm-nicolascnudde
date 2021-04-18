@@ -58,8 +58,8 @@ Bachelor in Applied Information Technology
 Accountancy & IT
 
 ### SKILLS
-
-| ---------- | ---------- |
+| Skill | Level |
+| ----- | ----- |
 | HTML | •••••••• |
 | CSS | ••••••• |
 | JavaScript | •••••• |
@@ -68,7 +68,8 @@ Accountancy & IT
 
 ### LANGUAGES
 
-| ------- | ------ |
+| Language | Level | 
+| -------- | ----- |
 | Dutch | Native |
 | English | Fluent |
 | French | Basic |
