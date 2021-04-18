@@ -75,13 +75,13 @@ Accountancy & IT
 | French | Basic |
 | Spanish | Basic |
 
-### CONTACT
+## CONTACT
 
 E-mail: nicolas.cnudde@me.com
 
 Phone: +32 487 36 42 19
 
-### SOCIAL
+## SOCIAL
 
 LinkedIn: https://www.linkedin.com/in/nicolascnudde/
 
