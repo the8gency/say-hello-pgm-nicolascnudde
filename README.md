@@ -57,7 +57,8 @@ Bachelor in Applied Information Technology
 
 Accountancy & IT
 
-### SKILLS
+## SKILLS
+
 | Skill | Level |
 | ----- | ----- |
 | HTML | •••••••• |
@@ -66,7 +67,7 @@ Accountancy & IT
 | UI/UX | ••••• |
 | Photoshop | •••• |
 
-### LANGUAGES
+## LANGUAGES
 
 | Language | Level | 
 | -------- | ----- |
