@@ -78,10 +78,13 @@ Accountancy & IT
 ### CONTACT
 
 nicolas.cnudde@me.com
+
 +32 487 36 42 19
 
 ### SOCIAL
 
 https://www.linkedin.com/in/nicolascnudde/
+
 https://github.com/pgm-nicolascnudde
+
 https://stackoverflow.com/users/15197281/thatnicolas
